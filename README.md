@@ -1,0 +1,1 @@
+Gerador de senha feito em Python, onde você pode escolher o tamanho de sua senha e a quantidade de números e símbolos que deseja.
